@@ -14,8 +14,8 @@ Este repositorio aloja la documentación técnica y estratégica correspondiente
 ---
 
 ## 🔗 Enlaces Obligatorios de Gestión y Control
-* **Repositorio Público (GitHub):** [Enlace a este repositorio público][cite: 2]
-* **Tablero Interactivo de Gestión (Jira / GitHub Projects):** [Enlace al tablero ágil][cite: 2]
+* **Repositorio Público (GitHub):** [https://github.com/letii09/TP4-SSServicios.git] [cite: 2]
+* **Tablero Interactivo de Gestión (Jira / GitHub Projects):** [https://ssservicios.atlassian.net/jira/software/projects/KAN/list?jql=project+%3D+KAN+ORDER+BY+cf%5B10019%5D+ASC&atlOrigin=eyJpIjoiZjIzZWNhM2FhMjg2NDgxN2FlMzM0NGZhZGFlMDVjZTMiLCJwIjoiaiJ9] [cite: 2]
 * **Documentación Consolidada:** PDF adjunto en la entrega final de Moodle (Entregas 1, 2, 3 y 4)[cite: 3].
 
 ---
